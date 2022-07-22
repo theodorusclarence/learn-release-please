@@ -4,6 +4,19 @@
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
+## 1.0.0 (2022-07-22)
+
+
+### Features
+
+* add feature 2 ([afa75bf](https://github.com/theodorusclarence/learn-release-please/commit/afa75bfdb06fd600653b150f200ba592ebe293ea))
+* add feature one ([7ff6aeb](https://github.com/theodorusclarence/learn-release-please/commit/7ff6aeb3020becb805516cc04fb2dd368000ede1))
+
+
+### Bug Fixes
+
+* feature 2 bug ([47f2844](https://github.com/theodorusclarence/learn-release-please/commit/47f284465a3ff26b00d851f44716f18b239385c4))
+
 ## 0.5.3 - 2022-02-27
 
 ### New Features
@@ -396,4 +409,3 @@ Snippets: `reg`
 ```
 
 You should also use [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) extension.
-
