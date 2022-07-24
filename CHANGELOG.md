@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/theodorusclarence/learn-release-please/compare/v1.0.0...v1.1.0) (2022-07-24)
+
+
+### Features
+
+* test release dispatch ([4064c86](https://github.com/theodorusclarence/learn-release-please/commit/4064c86f198b7b78198e25c64de896a6eb0f3949))
+
 ## 1.0.0 (2022-07-22)
 
 
